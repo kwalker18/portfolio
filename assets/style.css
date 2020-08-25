@@ -1,8 +1,8 @@
-body {
+body{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
-    background-image: url(https://img5.goodfon.com/wallpaper/nbig/6/60/acid-lsd-trip.jpg);
     margin: 6em;
+    background-color: red;
 }
 header {
     background-color: #deededbe;
@@ -11,21 +11,8 @@ header {
     font-weight: 600;
     display: inline-block;
 }
-.intro {
-    background-color: #deededbe;
-}
 .nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-#music{
-    float: right;
-    background-color: #deededbe;
-    padding: 10px;
-}
-#animals{
-    float: left;
-    background-color: #deededbe;
-    padding: 10 px;
 }
